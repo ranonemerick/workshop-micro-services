@@ -1,4 +1,4 @@
-package br.com.emerickr.user.dtos.UserDTO;
+package br.com.emerickr.user.dtos;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;

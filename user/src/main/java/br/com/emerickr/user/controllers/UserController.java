@@ -1,6 +1,6 @@
 package br.com.emerickr.user.controllers;
 
-import br.com.emerickr.user.dtos.UserDTO.UserDTO;
+import br.com.emerickr.user.dtos.UserDTO;
 import br.com.emerickr.user.models.UserModel;
 import br.com.emerickr.user.services.UserService;
 import jakarta.validation.Valid;
