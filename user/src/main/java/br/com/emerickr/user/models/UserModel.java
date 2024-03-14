@@ -7,7 +7,7 @@ import java.io.Serializable;
 import java.util.UUID;
 
 @Entity
-@Table(name = "TB_USERS")
+@Table(name = "tb_user")
 @Data
 public class UserModel implements Serializable {
 
@@ -16,7 +16,6 @@ public class UserModel implements Serializable {
     private UUID userID;
     private String name;
     private String email;
-
 
 }
 
